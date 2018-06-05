@@ -2,13 +2,11 @@
 
 namespace WhatsNewIn21.Pages
 {
-    public class ContactModel : PageModel
+    public class ChatModel : PageModel
     {
-        public string Message { get; set; }
-
         public void OnGet()
         {
-            Message = "Your contact page.";
+
         }
     }
 }

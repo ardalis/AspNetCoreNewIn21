@@ -1,0 +1,23 @@
+{
+  "name": "AspNetCoreNewIn21",
+  "version": "1.0.0",
+  "description": "Samples showing what's new in ASP.NET Core 2.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardalis/AspNetCoreNewIn21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardalis/AspNetCoreNewIn21/issues"
+  },
+  "homepage": "https://github.com/ardalis/AspNetCoreNewIn21#readme",
+  "dependencies": {
+    "@aspnet/signalr": "^1.0.0"
+  }
+}
